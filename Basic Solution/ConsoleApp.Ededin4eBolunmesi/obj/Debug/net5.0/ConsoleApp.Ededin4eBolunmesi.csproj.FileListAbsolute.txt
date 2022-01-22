@@ -1,0 +1,16 @@
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\bin\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.exe
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\bin\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.deps.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\bin\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.runtimeconfig.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\bin\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.runtimeconfig.dev.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\bin\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\bin\Debug\net5.0\ref\ConsoleApp.Ededin4eBolunmesi.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\bin\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.pdb
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\obj\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\obj\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\obj\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\obj\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.AssemblyInfo.cs
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\obj\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\obj\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\obj\Debug\net5.0\ref\ConsoleApp.Ededin4eBolunmesi.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\obj\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.pdb
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.Ededin4eBolunmesi\obj\Debug\net5.0\ConsoleApp.Ededin4eBolunmesi.genruntimeconfig.cache

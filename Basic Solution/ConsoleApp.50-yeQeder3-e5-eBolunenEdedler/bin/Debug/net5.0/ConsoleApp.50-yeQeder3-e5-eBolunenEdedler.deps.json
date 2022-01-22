@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp.50-yeQeder3-e5-eBolunenEdedler/1.0.0": {
+        "runtime": {
+          "ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp.50-yeQeder3-e5-eBolunenEdedler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

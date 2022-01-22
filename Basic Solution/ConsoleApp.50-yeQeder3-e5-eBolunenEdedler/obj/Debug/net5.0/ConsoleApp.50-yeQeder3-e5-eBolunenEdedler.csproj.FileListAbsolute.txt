@@ -1,0 +1,16 @@
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\bin\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.exe
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\bin\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.deps.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\bin\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.runtimeconfig.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\bin\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.runtimeconfig.dev.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\bin\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\bin\Debug\net5.0\ref\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\bin\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.pdb
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\obj\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\obj\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\obj\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.AssemblyInfo.cs
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\obj\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\obj\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\obj\Debug\net5.0\ref\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\obj\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.pdb
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\obj\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.genruntimeconfig.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler\obj\Debug\net5.0\ConsoleApp.50-yeQeder3-e5-eBolunenEdedler.csproj.AssemblyReference.cache

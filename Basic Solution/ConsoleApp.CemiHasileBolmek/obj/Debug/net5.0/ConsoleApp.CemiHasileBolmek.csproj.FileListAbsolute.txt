@@ -1,0 +1,16 @@
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\bin\Debug\net5.0\ConsoleApp.CemiHasileBolmek.exe
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\bin\Debug\net5.0\ConsoleApp.CemiHasileBolmek.deps.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\bin\Debug\net5.0\ConsoleApp.CemiHasileBolmek.runtimeconfig.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\bin\Debug\net5.0\ConsoleApp.CemiHasileBolmek.runtimeconfig.dev.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\bin\Debug\net5.0\ConsoleApp.CemiHasileBolmek.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\bin\Debug\net5.0\ref\ConsoleApp.CemiHasileBolmek.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\bin\Debug\net5.0\ConsoleApp.CemiHasileBolmek.pdb
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\obj\Debug\net5.0\ConsoleApp.CemiHasileBolmek.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\obj\Debug\net5.0\ConsoleApp.CemiHasileBolmek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\obj\Debug\net5.0\ConsoleApp.CemiHasileBolmek.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\obj\Debug\net5.0\ConsoleApp.CemiHasileBolmek.AssemblyInfo.cs
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\obj\Debug\net5.0\ConsoleApp.CemiHasileBolmek.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\obj\Debug\net5.0\ConsoleApp.CemiHasileBolmek.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\obj\Debug\net5.0\ref\ConsoleApp.CemiHasileBolmek.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\obj\Debug\net5.0\ConsoleApp.CemiHasileBolmek.pdb
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.CemiHasileBolmek\obj\Debug\net5.0\ConsoleApp.CemiHasileBolmek.genruntimeconfig.cache

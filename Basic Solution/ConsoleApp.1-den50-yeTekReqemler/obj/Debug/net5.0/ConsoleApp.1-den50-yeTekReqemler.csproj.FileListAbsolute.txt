@@ -1,0 +1,16 @@
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\bin\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.exe
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\bin\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.deps.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\bin\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.runtimeconfig.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\bin\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.runtimeconfig.dev.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\bin\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\bin\Debug\net5.0\ref\ConsoleApp.1-den50-yeTekReqemler.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\bin\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.pdb
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\obj\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\obj\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\obj\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\obj\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.AssemblyInfo.cs
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\obj\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\obj\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\obj\Debug\net5.0\ref\ConsoleApp.1-den50-yeTekReqemler.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\obj\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.pdb
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.1-den50-yeTekReqemler\obj\Debug\net5.0\ConsoleApp.1-den50-yeTekReqemler.genruntimeconfig.cache

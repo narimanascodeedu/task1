@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "278c39f7-b815-495b-9f90-d23ea561be0e": {
+      "ProjectGuid": "278c39f7-b815-495b-9f90-d23ea561be0e",
+      "DisplayName": "ConsoleApp.EdedinTekCutYazdirmag",
+      "ColorIndex": 0
+    },
+    "b1be410c-f8c8-4792-8d6d-f4a9e38a53ab": {
+      "ProjectGuid": "b1be410c-f8c8-4792-8d6d-f4a9e38a53ab",
+      "DisplayName": "ConsoleApp.Ededin4eBolunmesi",
+      "ColorIndex": 1
+    },
+    "951c9a21-8b12-4a06-86fc-bee2bb532f30": {
+      "ProjectGuid": "951c9a21-8b12-4a06-86fc-bee2bb532f30",
+      "DisplayName": "ConsoleApp.CemiHasileBolmek",
+      "ColorIndex": 2
+    },
+    "b0a7d07e-14b2-47a6-acad-1592e92b4c8e": {
+      "ProjectGuid": "b0a7d07e-14b2-47a6-acad-1592e92b4c8e",
+      "DisplayName": "ConsoleApp.1-den50-yeTekReqemler",
+      "ColorIndex": 3
+    },
+    "c32d64bb-f4c6-428d-ae8c-7c91fd6e5a40": {
+      "ProjectGuid": "c32d64bb-f4c6-428d-ae8c-7c91fd6e5a40",
+      "DisplayName": "ConsoleApp.50-yeQeder3-e5-eBolunenEdedler",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

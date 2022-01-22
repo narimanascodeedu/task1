@@ -1,0 +1,16 @@
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\bin\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.exe
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\bin\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.deps.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\bin\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.runtimeconfig.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\bin\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.runtimeconfig.dev.json
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\bin\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\bin\Debug\net5.0\ref\ConsoleApp.EdedinTekCutYazdirmag.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\bin\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.pdb
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\obj\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\obj\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\obj\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\obj\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.AssemblyInfo.cs
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\obj\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\obj\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\obj\Debug\net5.0\ref\ConsoleApp.EdedinTekCutYazdirmag.dll
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\obj\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.pdb
+C:\Users\Developer\Desktop\Basic Solution\ConsoleApp.EdedinTekCutYazdirmag\obj\Debug\net5.0\ConsoleApp.EdedinTekCutYazdirmag.genruntimeconfig.cache
